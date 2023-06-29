@@ -1,2 +1,2 @@
 # CustomDeathMessages
-Plugin that lets you make custom death messages in minecraft
+1.14.4
