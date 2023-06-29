@@ -1,0 +1,44 @@
+# config.yml
+
+pvp-death-messages:
+  - "§4%victim% was murdered by %killer%!"
+  - "§4%victim% was slain by %killer%!"
+  - "§4%victim% met their demise at the hands of %killer%!"
+
+death-messages:
+  ENTITY_EXPLOSION:
+    - "§4%username% exploded!"
+    - "§4%username% got nuked"
+  ENTITY_ATTACK:
+    - "§4%username% was brutally attacked!"
+    - "§4%username% was slain in combat!"
+  PROJECTILE:
+    - "§4%username% was shot down!"
+    - "§4%username% was hit by a projectile!"
+  FALL:
+    - "§4%username% fell to their doom!"
+    - "§4%username% failed to stick the landing!"
+  DROWNING:
+    - "§4%username% drowned!"
+    - "§4%username% couldn't swim!"
+  FIRE:
+    - "§4%username% burned to ashes!"
+    - "§4%username% played with fire and lost!"
+  SUFFOCATION:
+    - "§4%username% suffocated!"
+    - "§4%username% couldn't breathe!"
+  STARVATION:
+    - "§4%username% starved to death!"
+    - "§4%username% couldn't find food!"
+  LIGHTNING:
+    - "§4%username% was struck by lightning!"
+    - "§4%username% caught the wrath of Zeus!"
+  POISON:
+    - "§4%username% was poisoned!"
+    - "§4%username% couldn't withstand the poison!"
+  MAGIC:
+    - "§4%username% was killed by magic!"
+    - "§4%username% met an untimely end with dark arts!"
+  CUSTOM:
+    - "§4%username% met an unknown fate!"
+    - "§4%username% perished in mysterious circumstances!"
